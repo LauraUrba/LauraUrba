@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Sou um desenvolvedora apaixonada por Java e Kotlin.<br>Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades mo mundo da tecnologia.</p>
+<p align="left">Sou um desenvolvedora apaixonada por Java.<br>Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades mo mundo da tecnologia.</p>
 
 ###
 
-<p align="left">🌍 Natural de Itararé-SP.<br>📚 Estudante de Análise e Desenvolvimento de Sistemasno IFC-Fraiburgo.<br>🎯 Focado em Back-End com forte interesse em Desenvolvimento Mobile<br>🎲 Tenho experiência com HTML, CSS, Java, Python e Kotlin.  <br>🚀 Sempre buscando desenvolver e aprimorar minhas habilidades na área de tecnologia.</p>
+<p align="left">🌍 Natural de Itararé-SP.<br>📚 Estudante de Análise e Desenvolvimento de Sistemasno IFC-Fraiburgo.<br>🎯 Focado em Back-End com forte interesse em Desenvolvimento Mobile e DevOPs<br>🎲 Tenho experiência com HTML, CSS, Java, Docker e JS.  <br>🚀 Sempre buscando desenvolver e aprimorar minhas habilidades na área de tecnologia.</p>
 
 ###
 
@@ -25,7 +25,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
