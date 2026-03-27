@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌍 Natural de Itararé-SP.<br>📚 Estudante de Análise e Desenvolvimento de Sistemasno IFC-Fraiburgo.<br>🎯 Focado em Back-End com forte interesse em Desenvolvimento Mobile e DevOPs<br>🎲 Tenho experiência com HTML, CSS, Java, Docker e JS.  <br>🚀 Sempre buscando desenvolver e aprimorar minhas habilidades na área de tecnologia.</p>
+<p align="left">🌍 Natural de Itararé-SP.<br>📚 Estudante de Análise e Desenvolvimento de Sistemasno IFC-Fraiburgo.<br>🎯 Focado em Back-End com forte interesse em Desenvolvimento Mobile e DevOPs<br>🎲 Tenho experiência com HTML, CSS, Java, Docker e Python.  <br>🚀 Sempre buscando desenvolver e aprimorar minhas habilidades na área de tecnologia.</p>
 
 ###
 
